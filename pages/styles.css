@@ -1,0 +1,10 @@
+
+@media only screen and (max-width: 720px) {  
+    .intercom-lightweight-app-launcher {
+      margin-bottom: 20px;
+    }
+
+    .intercom-launcher-frame {
+      margin-bottom: 20px !important;
+    }
+}

@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/components": ["components/index"],
+      "@/signup-components": ["components/signup-onboarding/index"],
+      "@/dashboard-components": ["components/dashboard/index"],
+      "@/theme/*": ["theme/*"],
+      "@/utils": ["utils/index"],
+      "@/queries": ["hooks/queries/index"],
+      "@/auth": ["pages/auth/layout/index"],
+      "@/mutations": ["hooks/mutations/index"],
+      "@/settings/*": ["components/settings/*"],
+      "@/app-layout": ["components/app-layout/index"],
+      "@/shared-components": ["components/shared-components/index"],
+      "@/store": ["store/index"],
+      "@/brands-profile-components": ["components/brands-profile/index"],
+      "@/searchbar": ["components/searchbar/index"],
+    }
+  }
+}
